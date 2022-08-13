@@ -1,5 +1,5 @@
 <h2 align="center">
-  Battleship
+  Tic-Tac-Toe-with-AI
 </h2>
 
 <h3 align="left">
