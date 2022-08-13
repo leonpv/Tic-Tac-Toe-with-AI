@@ -14,9 +14,9 @@ Objectives
 
 At this level "Easy" the computer makes random moves. At level "Medium" will be a lot harder to beat than easy, even though the initial moves are still random. When the AI is playing at medium level, it wins when it can because of its first rule, and stops all simple attempts to beat it due to its second.
 
-If it already has two in a row and can win with one further move, it does so.
-If its opponent can win with one move, it plays the move necessary to block this.
-Otherwise, it makes a random move.
+1. If it already has two in a row and can win with one further move, it does so.
+2. If its opponent can win with one move, it plays the move necessary to block this.
+3. Otherwise, it makes a random move.
 
 When the AI is playing at hard level, it doesn't just look one move ahead to see an immediate win or prevent an immediate loss. At this level, it can look two moves ahead, three moves ahead, and even further. It can calculate all possible moves that might be played during the game, and choose the best one based on the assumption that its opponent will also play perfectly. So, it doesn't rely on the mistakes of its opponent and plays the game without fault from start to finish regardless of the opponent's skill!
 
