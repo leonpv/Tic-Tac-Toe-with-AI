@@ -22,7 +22,7 @@ The algorithm that implements this is called minimax. It's a brute force algorit
 Examples
 </h3>
 
-https://stepik.org/media/attachments/lesson/262721/demonstration.mp4
+https://user-images.githubusercontent.com/31758212/184498593-7ff14417-bf37-4c01-958a-cb3a474d6ab4.mp4
 
 The example below shows how your program should work.
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
